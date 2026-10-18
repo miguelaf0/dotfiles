@@ -1,0 +1,4 @@
+.zshrc.local
+.zsh_history
+.zcompdump*
+.gitconfig.local
